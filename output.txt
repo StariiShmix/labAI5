@@ -1,0 +1,14 @@
+Original container:
+Name: Credit1, Amount: 1000 USD, Interest Rate: 5.5%
+Name: Credit2, Amount: 500 EUR, Interest Rate: 4%
+Name: Credit3, Amount: 1500 GBP, Interest Rate: 6%
+
+Sorted container:
+Name: Credit2, Amount: 500 EUR, Interest Rate: 4%
+Name: Credit1, Amount: 1000 USD, Interest Rate: 5.5%
+Name: Credit3, Amount: 1500 GBP, Interest Rate: 6%
+
+Copied container:
+Name: Credit2, Amount: 500 EUR, Interest Rate: 4%
+Name: Credit1, Amount: 1000 USD, Interest Rate: 5.5%
+Name: Credit3, Amount: 1500 GBP, Interest Rate: 6%
